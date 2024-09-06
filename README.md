@@ -18,11 +18,14 @@ Processed data present in 'Processed_Data' folder
 c. Upload all the files onto Google Colab **except** 'Processed_Data' folder, 'Processing_UNET.ipynb', and 'annotations.csv'
 d. Read the instructions on the 'BMIAProject_U_NET_Amulya.ipynb' notebook and run it
 
+![lung_nodule_segmentation](https://github.com/user-attachments/assets/b8c311cb-15ed-4f34-988a-4fae752edf73)
 
 ## 2. YOLOv4
 a. Download the 'Model2_YOLO' folder 
 b. Upload the 'yolo_10_files' folder and 'BMIAProject_YOLO_Amulya.ipynb' on Google Colab
 c. Read the instructions on the 'BMIAProject_YOLO_Amulya.ipynb' notebook and run it
+
+![lung_nodule_segmentation_yolo](https://github.com/user-attachments/assets/ad041536-6fc7-48bc-9c0a-8f2eed501f20)
 
 
 ## 3. Swin-UNET [TODO]
